@@ -1,0 +1,6 @@
+[03-Jan-2024 05:26:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/prantm3v/public_html/production/header.php on line 2
+[03-Jan-2024 05:26:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/prantm3v/public_html/production/header.php on line 2
+[03-Jan-2024 05:38:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/prantm3v/public_html/production/header.php on line 2
+[03-Jan-2024 05:38:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/prantm3v/public_html/production/header.php on line 2
+[03-Jan-2024 05:38:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/prantm3v/public_html/production/header.php on line 2
+[03-Jan-2024 05:39:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/prantm3v/public_html/production/header.php on line 2

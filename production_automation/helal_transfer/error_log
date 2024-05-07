@@ -1,0 +1,4 @@
+[13-Jan-2024 05:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home1/prantm3v/public_html/production/helal_transfer/transfers_report.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/helal_transfer/transfers_report.php on line 37

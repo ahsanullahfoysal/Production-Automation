@@ -1,0 +1,12 @@
+[11-Jan-2024 18:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/prantm3v/public_html/production/shauli_worker/assign_worker.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/shauli_worker/assign_worker.php on line 10
+[13-Jan-2024 05:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/prantm3v/public_html/production/shauli_worker/assign_worker.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/shauli_worker/assign_worker.php on line 10
+[13-Jan-2024 06:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/prantm3v/public_html/production/shauli_worker/assign_worker.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/shauli_worker/assign_worker.php on line 10

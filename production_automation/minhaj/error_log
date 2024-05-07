@@ -1,0 +1,28 @@
+[11-Jan-2024 18:47:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders.php:77
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders.php on line 77
+[13-Jan-2024 05:50:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders.php:77
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders.php on line 77
+[13-Jan-2024 06:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders.php:77
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders.php on line 77
+[13-Jan-2024 09:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders.php:77
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders.php on line 77
+[13-Jan-2024 10:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders_edit.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders_edit.php on line 65
+[13-Jan-2024 10:51:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders_edit.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders_edit.php on line 65
+[13-Jan-2024 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/minhaj/orders_edit.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/minhaj/orders_edit.php on line 65

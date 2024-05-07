@@ -1,0 +1,6 @@
+[11-Jan-2024 09:32:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/prantm3v/public_html/production/foysal_wastage/material_wastage.php on line 3
+[11-Jan-2024 09:32:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/prantm3v/public_html/production/foysal_wastage/material_wastage.php on line 5
+[11-Jan-2024 09:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home1/prantm3v/public_html/production/foysal_wastage/material_wastage.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/foysal_wastage/material_wastage.php on line 5

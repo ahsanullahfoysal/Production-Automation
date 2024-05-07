@@ -1,0 +1,16 @@
+[11-Jan-2024 19:04:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php:86
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php on line 86
+[11-Jan-2024 19:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php:86
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php on line 86
+[13-Jan-2024 11:12:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php:86
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php on line 86
+[13-Jan-2024 11:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php:86
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/nazad_shiping/shipping_insert.php on line 86

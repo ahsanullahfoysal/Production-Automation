@@ -1,0 +1,4 @@
+[13-Jan-2024 11:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/nazad_mat_wast_sell/mat_sell_add.php:97
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/nazad_mat_wast_sell/mat_sell_add.php on line 97

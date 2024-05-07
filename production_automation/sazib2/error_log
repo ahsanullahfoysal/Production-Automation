@@ -1,0 +1,12 @@
+[11-Jan-2024 19:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/sazib2/add_finished_product_wastage.php:104
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/sazib2/add_finished_product_wastage.php on line 104
+[13-Jan-2024 11:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/sazib2/add_finished_product_wastage.php:104
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/sazib2/add_finished_product_wastage.php on line 104
+[13-Jan-2024 11:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/sazib2/add_finished_product_wastage.php:104
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/sazib2/add_finished_product_wastage.php on line 104

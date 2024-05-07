@@ -1,0 +1,44 @@
+[03-Jan-2024 05:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_edit.php:82
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_edit.php on line 82
+[03-Jan-2024 05:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[03-Jan-2024 06:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[03-Jan-2024 06:39:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[11-Jan-2024 19:03:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[11-Jan-2024 19:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[11-Jan-2024 19:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[13-Jan-2024 10:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[13-Jan-2024 10:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_edit.php:82
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_edit.php on line 82
+[13-Jan-2024 10:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_product.php on line 81
+[13-Jan-2024 11:06:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_edit.php:82
+Stack trace:
+#0 {main}
+  thrown in /home1/prantm3v/public_html/production/rezaul_finish_product/finished_edit.php on line 82
